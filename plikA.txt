@@ -1,3 +1,4 @@
 Dodanie funkcjonalności C
 Dodanie funkcjonalności B
 Zmiana funkcjonalności A
+Lech Kolejorz
